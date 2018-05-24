@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "549722557761",
+    "firebase_url": "https://diskoz-662a5.firebaseio.com",
+    "project_id": "diskoz-662a5",
+    "storage_bucket": "diskoz-662a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549722557761:android:546f373a27706325",
+        "android_client_info": {
+          "package_name": "a3ddaddy.example.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549722557761-br27hsirbfionfpd533ejhcpv11b8bf9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "549722557761-br27hsirbfionfpd533ejhcpv11b8bf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFAAXs3Xysp9FU6kV372QmLHiswFJR-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
